@@ -1,1 +1,1 @@
-# flipperzero-sonicmeter
+# flipperzero-apps
